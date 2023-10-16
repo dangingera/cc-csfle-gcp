@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sales-engineering-206314",
+  "private_key_id": "f2aad756131c4dc3a3280ad96c89e092a90f7533",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkq25ubkyBGZBN\nEUKlO5B5tTNaEd74RgC+WKm7uS+Uay+hEsxUZE+Lg1uPw9UnUWl65PadllW1fsVG\n2/UMo4wXgfpBBPlEBNW0J4BDzClJCIYlAZ0E+NnVouiViSeSfnrqd28f8bofSmm/\nyA/1ubHJmhXU9QhekUTAefXY2XtBOmIdXnLCSzQTaImjCjQ+r3x/HwJq4Z8hcNt3\n7fFVoTTrA4TR24F6iYrpLx93a6nMhG8Y242hPbDpSEO3eFljWxcRN0ePC2nfpM6F\nXjMc6+0un2y5f3tRtAFiRrRqLErKxooN/8FOAgVAG7Q/WPrJV3RE36p/YS+lLaln\nhqbuwCjFAgMBAAECggEABPCXmXx5kw3fRFCWPTqyNNR4u+T5WV1QPGWQge8mPD+S\n6DQWKRnxQPAp2QA47rsEfQlNVKDj5VPuOxfyG/T0COh/R2AM0juK5aKhuGbxfh1h\nWM7ZlQKaFkySyZmZtE1TBqGalcy8lp+22Gf6ApcVfETBDuhi3eNhupxuAZlUlzpK\nv62jbJt/zBsVwhEEdVnm+pjrqrpncGBwB6C+Yzd8oRtT8/rhGpcro18e5lSVOX1r\n9ULWg12rWUlHNtXP59q/ZxzN9NLYZJ3GPai/b7KXrIwjSrAHpt12vN2hz4dyrtYc\nmD48+1y4JU+LsWu2wKJ1mcKROUw9NP7IR4kQrrA8aQKBgQDkb1r9Y3pJXj+vhGf0\n48BQDNfyvVwRqoqlJRUHzx++f2Hiit4XJxD8/jKxHbCS4orhZ5g+0H/HXNvVhkOJ\nrQ1RJaR/l1n4DqpOetSLGEuyoc8FWRyG1O93z1kPMVGU2cpj5fFDPq4rWKrDBZ7r\nq9D3EuT8go1RSK/W9tmIwbcLUwKBgQC4ikjZV6oPerWAH1BnrGaqsEW5harFnXVk\n7ntqs9YfGZo0NOl7UqdmyILGtPKeU5/HKG9Zd2Q7dWygLfKQ/hi+ICcV4jvVXqEP\n3urp2SF7gik6/xM4V6RLz0yc/2V9puuOR/sPsNTTpl/iQVs9r7pIj3NjyI06IaLl\nq54+wuwQhwKBgFhYgLYyvN6XJsY4zQO2+W98KCBm/66NaGWKO+HzRvGjzjWRQ2ds\n4nMV1IEPXHTSTKf0KrtQY7q0vQiNjp02YkoZ5s65uD/pXBBSDNVmphAF6EzHM/Mp\ncxvBA06O4mBRAqc0DOTW3wFAn3ohOF8o6f5EPm8yBnmDRQ48FdGAKcylAoGAK+6v\n3R4jnD/ISdIqoCPI5UXFs58Awr7zna2wr/xUM18y+M7H7tYEiFGf4JJfWBXsactU\nhuYHdKhFzfRiVOZJGaop4+nR+L/odBDLuBQ7Bl48VpE3ECi9MlcNlCqxDLLaTSsR\nt/CPGjv3g7OvdwYIwRF1lQG/rWEomKi8qZBaBq0CgYEAqRKSSewp12qryqUPFIms\niu9Jw+jsmS0bEQygevlS6LEv38wCngRNyFVQOXXr1WC2ifU6zYuH1PzlvT59feJP\n+Gun48Lg7cWXEvb61TT6Lxi+9Mp6jaBrruCpkbphQRZruawYHe3csfQ405Z8pfuA\nmjTxUCUYYfvPFNUrHzyFyrE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dgingera@sales-engineering-206314.iam.gserviceaccount.com",
+  "client_id": "118343265668813959407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dgingera%40sales-engineering-206314.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
